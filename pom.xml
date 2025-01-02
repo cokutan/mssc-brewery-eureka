@@ -17,7 +17,7 @@
     <properties>
         <java.version>22</java.version>
         <spring-cloud.version>2024.0.0</spring-cloud.version>
-        <docker.image.prefix>sfgbeerworks</docker.image.prefix>
+        <docker.image.prefix>cokutan</docker.image.prefix>
         <docker.image.name>${project.artifactId}</docker.image.name>
     </properties>
 
